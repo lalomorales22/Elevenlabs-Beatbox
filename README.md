@@ -1,4 +1,5 @@
 # 🎵 Professional Beatbox Machine
+<img width="1071" height="810" alt="Screenshot 2025-07-28 at 12 33 52 PM" src="https://github.com/user-attachments/assets/3c6d7dec-3d50-4a54-9b5c-5a426f9d8ea3" />
 
 A powerful, web-based beat machine and sound design studio with AI-powered sound effects generation. Create professional beats, manage sound libraries, and generate custom sound effects using ElevenLabs AI technology.
 
